@@ -2,7 +2,7 @@
 
 The Book Recommendation System is an intelligent application designed to help users discover new books tailored to their tastes. It leverages collaborative filtering techniques and machine learning algorithms to analyze user ratings and identify books with similar appeal. By comparing a user's preferences to those of others with similar interests, the system generates personalized book recommendations.
 
-![Book recommendation system](https://github.com/ShivamKuite07/Book-Recommendation-System-using-Django/edit/main/brsd.gif)
+![Book_recommendation_system](https://github.com/ShivamKuite07/Book-Recommendation-System-using-Django/blob/main/brsd.gif)
 
 #### Key Features
 1. **Personalized Recommendations**: Based on the user's reading history or a selected book, the system recommends similar titles, helping users find books that match their interests.
